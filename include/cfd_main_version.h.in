@@ -1,0 +1,2 @@
+#define cfd_main_VERSION_MAJOR @aero_cfd_VERSION_MAJOR@
+#define cfd_main_VERSION_MINOR @aero_cfd_VERSION_MINOR@
